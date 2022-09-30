@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Two-Page-Success-Validation-Form/static/css/main.63d9f177.chunk.css",
+    "main.js": "/Two-Page-Success-Validation-Form/static/js/main.dd8e51ec.chunk.js",
+    "main.js.map": "/Two-Page-Success-Validation-Form/static/js/main.dd8e51ec.chunk.js.map",
+    "runtime-main.js": "/Two-Page-Success-Validation-Form/static/js/runtime-main.bcd25105.js",
+    "runtime-main.js.map": "/Two-Page-Success-Validation-Form/static/js/runtime-main.bcd25105.js.map",
+    "static/js/2.712099c7.chunk.js": "/Two-Page-Success-Validation-Form/static/js/2.712099c7.chunk.js",
+    "static/js/2.712099c7.chunk.js.map": "/Two-Page-Success-Validation-Form/static/js/2.712099c7.chunk.js.map",
+    "index.html": "/Two-Page-Success-Validation-Form/index.html",
+    "precache-manifest.b3571ade9479453f98b9c65ac1b6ecfb.js": "/Two-Page-Success-Validation-Form/precache-manifest.b3571ade9479453f98b9c65ac1b6ecfb.js",
+    "service-worker.js": "/Two-Page-Success-Validation-Form/service-worker.js",
+    "static/css/main.63d9f177.chunk.css.map": "/Two-Page-Success-Validation-Form/static/css/main.63d9f177.chunk.css.map",
+    "static/js/2.712099c7.chunk.js.LICENSE.txt": "/Two-Page-Success-Validation-Form/static/js/2.712099c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcd25105.js",
+    "static/js/2.712099c7.chunk.js",
+    "static/css/main.63d9f177.chunk.css",
+    "static/js/main.dd8e51ec.chunk.js"
+  ]
+}
